@@ -1,7 +1,7 @@
 Alfred2-workflow-for-OpenVPN-Viscosity
 ======================================
 
-with this Alfred2 Workflow (shortcut 'vis') you can 
+with this Alfred2 Workflow (shortcut ‘cvis’ = connect viscosity) you can 
  - toggle OpenVPN connections created with Mac OS X Version of Viscosity (vis $NameOfConnection)
  - show status of all configured connections (vis status)
  - disconnect from all active connections (vis disconnect)
