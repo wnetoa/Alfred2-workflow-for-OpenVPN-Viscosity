@@ -1,4 +1,4 @@
-Alfred2-workflow-for-OpenVPN-Viscosity
+Alfred2 workflow for OpenVPN connections in Viscosity
 ======================================
 
 with this Alfred2 Workflow (shortcut ‘cvis’ = connect viscosity) you can 
